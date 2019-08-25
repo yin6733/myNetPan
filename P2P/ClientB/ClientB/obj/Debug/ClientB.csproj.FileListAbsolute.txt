@@ -1,0 +1,7 @@
+C:\Users\Ziqi Cheng\source\repos\ClientB\ClientB\bin\Debug\ClientB.exe.config
+C:\Users\Ziqi Cheng\source\repos\ClientB\ClientB\bin\Debug\ClientB.exe
+C:\Users\Ziqi Cheng\source\repos\ClientB\ClientB\bin\Debug\ClientB.pdb
+C:\Users\Ziqi Cheng\source\repos\ClientB\ClientB\obj\Debug\ClientB.csprojAssemblyReference.cache
+C:\Users\Ziqi Cheng\source\repos\ClientB\ClientB\obj\Debug\ClientB.csproj.CoreCompileInputs.cache
+C:\Users\Ziqi Cheng\source\repos\ClientB\ClientB\obj\Debug\ClientB.exe
+C:\Users\Ziqi Cheng\source\repos\ClientB\ClientB\obj\Debug\ClientB.pdb
